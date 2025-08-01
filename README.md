@@ -68,4 +68,4 @@ Como é um projeto puramente **front-end (HTML, CSS e JS)**, basta:
 
 1. Clonar ou baixar este repositório:
    ```bash
-   git clone https://github.com/seu-usuario/guiarapidovacinacao.git
+   git clone https://github.com/ovitorleal/guiarapidovacinacao.git
