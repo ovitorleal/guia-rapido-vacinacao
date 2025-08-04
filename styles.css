@@ -36,3 +36,11 @@ body {
 .accordion-button.open svg {
     transform: rotate(180deg);
 }
+
+
+    
+#copyright a {
+    font-family: Inter;
+    font-style: italic;
+    
+}
